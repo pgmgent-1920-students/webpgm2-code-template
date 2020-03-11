@@ -4,7 +4,7 @@
 * SASS (and SCSS)
 * ESLint with AirBnB Style Guide (https://github.com/airbnb/javascript)
 
-## What you will need
+## What you will need (optional)
 
 * Eslint extension for Visual Studio Code (https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
