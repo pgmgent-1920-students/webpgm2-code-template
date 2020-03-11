@@ -1,4 +1,4 @@
-# 1920-mobdev1-code-template
+# webpgm2-code-template
 
 ## Included
 * SASS (and SCSS)
